@@ -10,6 +10,8 @@
 
 ## 示例代码
 
+完整脚本见：[basic_language_model_cpm_lm.py](https://github.com/bojone/bert4keras/blob/master/examples/basic_language_model_cpm_lm.py)
+
 ```python
 # 模型路径
 config_path = '/root/kg/bert/CPM_LM_2.6B_TF/config.json'
