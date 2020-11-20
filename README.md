@@ -8,6 +8,12 @@
 - CPM-LM-TF2：https://github.com/qhduan/CPM-LM-TF2
 - 科学空间介绍：https://kexue.fm/archives/7912
 
+## 模型下载
+
+适配bert4keras的模型下载：https://pan.baidu.com/s/1QyUly1zHKuAxDwyKcNXueg 提取码: xn7a
+
+如果已经下载了pytorch版，那么读者也可以用[convert.py](https://github.com/bojone/CPM_LM_bert4keras/blob/main/convert.py)自行转换。
+
 ## 示例代码
 
 完整脚本见：[basic_language_model_cpm_lm.py](https://github.com/bojone/bert4keras/blob/master/examples/basic_language_model_cpm_lm.py)
