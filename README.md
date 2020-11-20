@@ -1,0 +1,2 @@
+# CPM_LM_bert4keras
+在bert4keras下加载CPM_LM模型
