@@ -47,6 +47,24 @@ model = build_transformer_model(
 )  # 建立模型，加载权重
 ```
 
+## Config
+
+config.json参考如下
+```python
+{
+  "vocab_size": 30000,
+  "hidden_size": 2560,
+  "attention_probs_dropout_prob": 0.0,
+  "hidden_dropout_prob": 0.0,
+  "hidden_act": "gelu",
+  "initializer_range": 0.02,
+  "intermediate_size": 10240,
+  "max_position_embeddings": 1024,
+  "num_attention_heads": 32,
+  "num_hidden_layers": 32
+}
+```
+
 ## 环境依赖
 
 - bert4keras >= 0.9.3
